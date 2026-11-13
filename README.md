@@ -1,16 +1,21 @@
-## Hi there 👋
+# Donald Heese
 
-<!--
-**HeeseDonald/HeeseDonald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Independent researcher focused on hostile agentic AI containment,
+systems architecture, and deterministic governance controls.
 
-Here are some ideas to get you started:
+## NOX Research Program
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+NOX is a research program investigating containment architectures for
+hostile or noncompliant agentic artificial intelligence.
+
+## Primary Research
+
+- Hostile Agentic AI Threat Taxonomy
+- Cognitive Resource Governance
+- Deterministic Hardware Veto Architectures
+- Multi-Agent Coalition Suppression
+- Verification and Auditability of Agentic Systems
+
+## Current Publication
+
+https://github.com/HeeseDonald/NOX
