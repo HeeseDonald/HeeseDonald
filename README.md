@@ -18,4 +18,4 @@ hostile or noncompliant agentic artificial intelligence.
 
 ## Current Publication
 
-https://github.com/HeeseDonald/NOX
+
